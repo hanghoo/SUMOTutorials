@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 08/22/21 11:42:43 by Eclipse SUMO duarouter Version 1.7.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="d:\Program%20Files%20(x86)\Eclipse\Sumo\tools\2021-08-22-11-42-08\osm.net.xml"/>
+        <route-files value="d:\Program%20Files%20(x86)\Eclipse\Sumo\tools\2021-08-22-11-42-08\osm.rail_urban.trips.xml"/>
+    </input>
+
+    <output>
+        <output-file value="d:\Program%20Files%20(x86)\Eclipse\Sumo\tools\2021-08-22-11-42-08\osm.rail_urban.trips.xml.tmp"/>
+        <write-trips value="true"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+
+    <report>
+        <no-warnings value="true"/>
+        <ignore-errors value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="urban_rail_urban" vClass="rail_urban"/>
+    <trip id="urban23" type="urban_rail_urban" depart="2046.10" departLane="best" departSpeed="max" from="421618237" to="248099628"/>
+    <trip id="urban26" type="urban_rail_urban" depart="2312.98" departLane="best" departSpeed="max" from="942849698" to="421618230"/>
+</routes>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 08/22/21 11:42:45 by Eclipse SUMO duarouter Version 1.7.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="d:\Program%20Files%20(x86)\Eclipse\Sumo\tools\2021-08-22-11-42-08\osm.net.xml"/>
+        <route-files value="d:\Program%20Files%20(x86)\Eclipse\Sumo\tools\2021-08-22-11-42-08\osm.rail.trips.xml"/>
+    </input>
+
+    <output>
+        <output-file value="d:\Program%20Files%20(x86)\Eclipse\Sumo\tools\2021-08-22-11-42-08\osm.rail.trips.xml.tmp"/>
+        <write-trips value="true"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+
+    <report>
+        <no-warnings value="true"/>
+        <ignore-errors value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd"/>
