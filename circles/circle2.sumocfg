@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 08/22/21 21:54:30 by Eclipse SUMO GUI Version 1.7.0
+-->
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="D:\simulator\SUMOTutorials\circles\circle2.net.xml"/>
+        <route-files value="D:\simulator\SUMOTutorials\circles\circle2.rou.xml"/>
+    </input>
+
+</configuration>
